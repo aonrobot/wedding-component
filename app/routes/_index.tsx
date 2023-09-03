@@ -18,7 +18,8 @@ export default function Index() {
   return (
     <FlipCountdown
       hideYear='true'
-      theme='light'
+      theme='green'
+      size="small"
       endAt={'2023-11-25 01:26:58'} // Date/Time
     />
   );
