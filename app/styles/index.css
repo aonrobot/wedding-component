@@ -10,6 +10,6 @@
 .flip-countdown.theme-green .flip-countdown-title {
     color: #aaa;
 }
-.flip-countdown.theme-green .flip-countdown.size-small .flip-countdown-piece{
+.flip-countdown.theme-green.size-small .flip-countdown-piece{
     padding-right: 0.6rem;
 }
