@@ -3,4 +3,13 @@
     --text-bottom-color: #50813d;
     --background-color: #f7f7f7;
     --background-bottom-color: #ffffff;
+
+    
+}
+
+.flip-countdown.theme-green .flip-countdown-title {
+    color: #aaa;
+}
+.flip-countdown.theme-green .flip-countdown.size-small .flip-countdown-piece{
+    padding-right: 0.6rem;
 }
